@@ -1,0 +1,19 @@
+{
+  "name": "fastifytest",
+  "version": "1.0.0",
+  "description": "To test Fastity library",
+  "main": "server.js",
+  "dependencies": {
+    "desm": "^1.1.0",
+    "fastify": "^3.17.0",
+    "fastify-autoload": "^3.7.1",
+    "tape": "^5.2.2"
+  },
+  "type": "module",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
